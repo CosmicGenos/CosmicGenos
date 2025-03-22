@@ -1,5 +1,8 @@
 <h1 align="center">Hello There People on Internet 👋, I'm Kavindu</h1>
 <h3 align="center">Just a Guy who like's Machine Learning</h3>
+<p align="center">
+  <img src="https://github.com/CosmicGenos/CosmicGenos/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true"/>
+</p>
 
 
 
