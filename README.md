@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kavindu</h1>
-<h3 align="center">A Guy who like's Machine Learning</h3>
+<h1 align="center">Hello There People on Internet 👋, I'm Kavindu</h1>
+<h3 align="center">Just a Guy like's Machine Learning</h3>
 
 
 
