@@ -1,6 +1,8 @@
 <h1 align="center">Hello There People on Internet 👋, I'm Kavindu</h1>
-<h3 align="center">Just a Guy like's Machine Learning</h3>
-
+<h3 align="center">Just a Guy who like's Machine Learning</h3>
+<p align="center">
+  <img src="[URL_TO_YOUR_GIF](https://private-user-images.githubusercontent.com/151267612/425758197-7d8076ba-b937-4d07-aa4b-a29f1dc182d5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI2NTgxNzEsIm5iZiI6MTc0MjY1Nzg3MSwicGF0aCI6Ii8xNTEyNjc2MTIvNDI1NzU4MTk3LTdkODA3NmJhLWI5MzctNGQwNy1hYTRiLWEyOWYxZGMxODJkNS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyMlQxNTM3NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZjJiZjk3OTZjM2ZhY2Q2MWQ5MjdiNDUzMDk4ZWE3YzI0NzM1ODBmZTYwMGYzMmJiZTJjNGEzOWU3MjdmNjBiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Uj47hmaXKcZc7gagD-CL2owOeDD9JnPSVAUIhbcxc0o)" alt="Description" width="500"/>
+</p>
 
 
 <p align="left">
